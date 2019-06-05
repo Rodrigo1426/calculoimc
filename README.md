@@ -1,2 +1,2 @@
 # calculoimc
-Calculo IMC em Js.
+Calculo IMC em Java.
